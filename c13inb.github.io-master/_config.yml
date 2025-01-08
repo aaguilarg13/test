@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+#relative_permalinks: true
+
+# Setup
+title:            MRIlab Group
+tagline:          'Brain Connectivity Laboratory'
+description:      'Source code for our opensource site showcasting our <a href="https://github.com/c13inb/c13inb.github.io/wiki" target="_blank">MRI-Wiki</a> entries, pipelines and opensource projects.'
+avatar:           https://github.com/c13inb/c13inb.github.io/tree/master/images/brain_icon.png
+url:              https://github.com/c13inb
+baseurl:          /
+
+author:
+  name:           'RRC'
+  url:            http://personal.inb.unam.mx/lconcha/
+
+paginate:         5
+
+# Custom vars
+
+github:
+  repo:           https://github.com/c13inb
